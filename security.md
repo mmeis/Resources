@@ -20,3 +20,11 @@ Databases with functionality tied in should be categorized with thier use (likel
 
 ## OSINT
 
+
+## Other Resource Lists
+Add links to other github, government, blog posts or other lists of security tools, resources and links here.
+
+1. EU Security Training List
+     1.	This is the European Union's Security list of resources for security training.
+     2.	https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material
+
